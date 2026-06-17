@@ -1,0 +1,7 @@
+#ifndef UI_PLATFORM_LVGL_WRAPPER_H
+#define UI_PLATFORM_LVGL_WRAPPER_H
+
+#include <lvgl.h>
+
+#endif /* UI_PLATFORM_LVGL_WRAPPER_H */
+
